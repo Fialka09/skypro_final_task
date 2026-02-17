@@ -39,4 +39,6 @@
 - Это ваша копия работы, может быть поменяем аватар?
 ```
 </details>
+<img width="690" height="654" alt="ava" src="https://github.com/user-attachments/assets/b18fe15d-3006-417b-9868-b9cddf8799cb" />
 
+![bg](https://github.com/user-attachments/assets/3ffb767e-a4d3-440d-ad3c-98fab3567c15)
